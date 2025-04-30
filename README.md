@@ -71,7 +71,7 @@ To run this project, ensure you have the following Python libraries installed:
 
 Download the IMDB dataset and unzip it to your local path.
 
-Update the `BASE_DIR` variable inside `sentiment_analysis.py` with your dataset path:
+Update the `BASE_DIR` variable with your dataset path:
 
 ```python
 BASE_DIR = "path_to_your_dataset"
